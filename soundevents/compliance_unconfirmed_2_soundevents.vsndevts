@@ -1,0 +1,498 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+    "vo.custom.combine.overwatch_wants_assault" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_1/overwatch_wants_assault.vsnd",
+		]
+	}
+
+    "vo.custom.combine.never_see_it_coming" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_1/never_see_it_coming.vsnd",
+		]
+	}
+
+    "vo.custom.combine.be_more_effective" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/be_more_effective.vsnd",
+		]
+	}
+
+    "vo.custom.combine.overwatch_wanted_gate" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/overwatch_wanted_gate.vsnd",
+		]
+	}
+
+    "vo.custom.combine.shooting_from_behind" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/shooting_from_behind.vsnd",
+		]
+	}
+
+    "vo.custom.combine.sure_told_specifically" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/sure_told_specifically.vsnd",
+		]
+	}
+
+    "vo.custom.combine.i_know_probably" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/i_know_probably.vsnd",
+		]
+	}
+
+    "vo.custom.combine.when_has_overwatch" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/when_has_overwatch.vsnd",
+		]
+	}
+
+    "vo.custom.combine.should_check" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/should_check.vsnd",
+		]
+	}
+
+    "vo.custom.combine.last_time" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/last_time.vsnd",
+		]
+	}
+
+    "vo.custom.combine.think_check" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/think_check.vsnd",
+		]
+	}
+
+    "vo.custom.combine.no_just_watch" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/no_just_watch.vsnd",
+		]
+	}
+
+    "vo.custom.combine.what_if_behind" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/what_if_behind.vsnd",
+		]
+	}
+
+    "vo.custom.combine.shut_up" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_2/shut_up.vsnd",
+		]
+	}
+
+    "vo.custom.combine.give_it_ago" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_3/give_it_ago.vsnd",
+		]
+	}
+
+    "vo.custom.combine.be_quick" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_3/be_quick.vsnd",
+		]
+	}
+
+    "vo.custom.combine.you_die" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/combine_discussion_3/you_die.vsnd",
+		]
+	}
+
+    "vo.custom.incredible_performance" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/incredible_performance.vsnd",
+		]
+	}
+
+    "vo.custom.simulation" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/simulation.vsnd",
+		]
+	}
+
+    "vo.custom.genetic_splicing" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/genetic_splicing.vsnd",
+		]
+	}
+
+    "vo.custom.overwatch_requested_elim" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/overwatch_requested_elim.vsnd",
+		]
+	}
+
+    "vo.custom.what_why" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/what_why.vsnd",
+		]
+	}
+
+    "vo.custom.maintain_formality" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/maintain_formality.vsnd",
+		]
+	}
+
+    "vo.custom.unsure" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/unsure.vsnd",
+		]
+	}
+
+    "vo.custom.skeptical" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/skeptical.vsnd",
+		]
+	}
+
+    "vo.custom.neuroagent" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/neuroagent.vsnd",
+		]
+	}
+
+    "vo.custom.just_shoot" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/just_shoot.vsnd",
+		]
+	}
+
+    "vo.custom.but_sir" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/but_sir.vsnd",
+		]
+	}
+
+    "vo.custom.squadron" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/squadron.vsnd",
+		]
+	}
+
+    "vo.custom.no_harsh_feelings" = 
+	{
+		type = "hlvr_default_3d"
+		volume = 1.0
+		volume_falloff_min = 70.0
+		volume_falloff_max = 2700.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		spread_min = 30
+		spread_max = 150
+		vsnd_files = 
+		[
+			"sounds/ending_bad/no_harsh_feelings.vsnd",
+		]
+	}
+
+	"music.custom.first_time_surface" = 
+	{
+		base = "music.a3_distillery.vault_view"
+        volume = 1
+        fade_in = 2
+        delay = 0
+	}
+
+	"music.custom.ending_good" = 
+	{
+		base = "Music.a5_vault.mirror1_2"
+        volume = 1
+        fade_in = 1
+        delay = 0
+	}
+}
